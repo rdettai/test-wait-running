@@ -14,7 +14,7 @@ phases:
       # - command
   pre_build:
     commands:
-       - ./run-httpd.sh
+       - /root/run-httpd.sh
       # - command
   build:
     commands:
